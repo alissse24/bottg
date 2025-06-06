@@ -1,0 +1,10 @@
+TELEGRAM_BOT_TOKEN = "7400671220:AAFFJVNWPLbodH9OSFSItDJLAqWa1uU8kJ8" # Токен вашего бота Telegram
+ADMIN_ID = 7229475308 # ID администратора
+API_ID = 20843488  # Ваш API ID от Telegram
+API_HASH = "c8b48dbd6cac231a802769db3c2f7910" # Ваш API HASH от Telegram
+LOG_CHANNEL_ID = -1002636942335 # ID канала для логов (должен начинаться с -100)
+STATS_CHANNEL_ID = -1002636942335 # ID канала для статистики
+MIN_JOIN_DELAY = 15  # Минимальная задержка между вступлением в группы
+MAX_JOIN_ATTEMPTS = 3  # Максимальное количество попыток вступления
+JOIN_DELAY = 15  # Задержка между попытками вступления
+GROUP_UPDATE_INTERVAL = 86400  # 24 часа в секундах
